@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "melodic-eye-296511",
+  "private_key_id": "ce1ca7a5bc8e5034b69ec79e3875df54d631f0be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiHQV2uS4duKzZ\n+0fM+WwD1uEtQCmdamFs7OGThv6x8/x5SkQTTqzBjYdAawkv7yN8NpA/j4wxUhcx\nOy+zleC815kFUGaXg+CcWp8jyWU3kzFbLRVYq3LGKALJJSgywwyFRXbAsFcvkjyY\nqSgwe3rPHefkZA4aoSMx7plqHsVvwp3+GyXaRHMbjOIpJ5DxJav1uUcI0Vlsne3s\nFbeOoVdMXFR9qsDCt102cQMbtMnNS6n7bQEhOhmOgts5se4BvQFhNT5gycruZba7\nMYOwxYrrv/y8XKMDNoRqhvzviroHYUDgTDQeTDqBx1tJVwxeFbYmezY6T2zbuuDI\nvTpGTzonAgMBAAECggEAC85FPuzOw5yr/yviLLaKpopC18LGb7pMN1yA3kzZxifY\niRS0JHEkT5bOSg4BcJuKYASxOI/BoTiIi9idlAckLgcdaQT+k6Yno1Cjf5MDwKpY\nJnsABPcSDVrjPmFrA1daVWeboFNh5gr7nWUkPMj2m+1iR9Wpg/Lxgd9jDhazlicz\nzQgAAW+i5VdIej8FmR7r+nZr8e6zly5k9Y9c7p88VbhnpipuQEQ15QIjok+k4uFW\nKkzuBB0HGMcipFpN9wpflYDemfvTVH8C8mlfRT/yP6Fh9EeVWihRqWjuoWvRoAgw\nc2Fez32pBAz3DJFhxxwhbQD7J7h/WbN6yh5KIapO4QKBgQDL5NpcO53egkcXSh7e\nQQtkQoo7sDmMt030KW/7OphJis5HG2mnpicSEipfBjzqjaT3XEOI+YDK2YWDbntY\n6ti8NTRsGGRNFHrq6vnrEH7WuH1/2fJzq57auy0wNsnpPK+qve6UTFKpVf2UirKL\nAFjWmR0aFTGHQwh6gTUGpClgKQKBgQDLisyWDKpIF9m86iVrxRC+tCnfhaaO2eUV\neeVcUM7bpFXxthr02aIqGzogZPbAwPHFjswMpJMfjRHmW3yLyplkig+xDXFB5s7T\nmqH/L5HKEmGMkKiIbqOUkNojIffmbx/Xhm30vOMwvnkwC3dJhQrDhxaC82T25K0n\nAdncvbHRzwKBgATzJlXs4JVBRmaLVxqAK72gW+i9C3ieDpdp1h0cPAw1AXL6eGMo\nhnRK2pp59Uqga6vRopYVsIm8JCCfswDimqZfCEnDgdPZNm6zi6OoP9wImItdCCTE\nutOGjb9I5TfzUDRt7ffNrogL3V8YyuLS/FUhXHKApzYoa3FF57qki5iZAoGBAMps\nkoSTufGSzrfDgU3JoZqXIKGskHW3G84c+U6zCtaDe/m0KuDhZBZOF6PJ5WDTQl9A\nYYwdTDfvmyKmT5nS9nR3nZ1uifmJap4lRgC8tVfqqdsarpFovwRsfpS8HoesclVs\n2wOvqp56f5mZfZu/VXIZcfjvyLSFvfJyM9IFUcgfAoGASD1H8j3eaGgF3LZ6pHPT\npxM4JB2ZSiABYEbD6BOdovEdF+wXxEF7jr5p/2GCcNpxQq9ajBojPXaNg63AYkof\nb4x8u0cfwvsAfPHC8SiafTAcAqyy68GzwqG1GQ0ecRCJX/8V0AyjXz7E70LL4fWV\nXoviD36w+29tn/BqnZkI/pY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "datavivtech@melodic-eye-296511.iam.gserviceaccount.com",
+  "client_id": "116061996596209278561",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datavivtech%40melodic-eye-296511.iam.gserviceaccount.com"
+}
