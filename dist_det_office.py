@@ -149,6 +149,7 @@ def feed(cap,feedname):
 			print(Detected)
 			imgpath = 'output/img-'+ date_string +'.png'
 			cv2.imwrite(imgpath ,image)
+			print("The file is saved to ",imgpath)
 			#cv2.imwrite('output/img-'+ date_string +'.png' ,frame)
 			
 			#ret = social_store_image_bucket(str(10),'E',imgpath,6)
@@ -173,7 +174,7 @@ def feed(cap,feedname):
 		# screen
 		#if args["display"] > 0:
 			# show the output frame
-		cv2.imshow("Frame", frame)
+		#cv2.imshow("Frame", frame)
 		key = cv2.waitKey(1) & 0xFF
 
 			# if the `q` key was pressed, break from the loop
