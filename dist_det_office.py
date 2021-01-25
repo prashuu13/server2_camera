@@ -152,7 +152,7 @@ def feed(cap,feedname):
 			print("The file is saved to ",imgpath)
 			#cv2.imwrite('output/img-'+ date_string +'.png' ,frame)
 			
-			#ret = social_store_image_bucket(str(10),'E',imgpath,6)
+			ret = social_store_image_bucket(str(10),'E',imgpath,6)
 
 			Detected = True
 			Violation = False
@@ -168,7 +168,8 @@ def feed(cap,feedname):
 
 		#for imgpath in imagePaths:
 			#print(imgpath)
-		ret = social_store_image_bucket(str(8),'E',imgpath,4)
+			
+		#ret = social_store_image_bucket(str(8),'E',imgpath,4)
 
 		# check to see if the output frame should be displayed to our
 		# screen
