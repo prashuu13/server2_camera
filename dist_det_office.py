@@ -17,12 +17,12 @@ from imutils import paths
 from camerasync import *
 try:
 	#cap2 = cv2.VideoCapture('rtsp://admin:admin@123@114.79.131.224:554/unicast/c4/s1/live')
-	cap2 = VideoCaptureAsync('rtsp://admin:Lock@1234@202.134.159.185:10554/streaming/Channels/401')
+	cap2 = VideoCaptureAsync('rtsp://admin:Lock@1234@202.134.159.185:10554/streaming/Channels/601')
 	cap2.start()
 	print('Async')
 except:
 	#cap2 = cv2.VideoCapture('rtsp://admin:admin@123@114.79.131.224:554/unicast/c4/s1/live')
-	cap2 = cv2.VideoCapture('rtsp://admin:Lock@1234@202.134.159.185:10554/streaming/Channels/301')
+	cap2 = cv2.VideoCapture('rtsp://admin:Lock@1234@202.134.159.185:10554/streaming/Channels/601')
 	print('continuous')
 
 Detected = True
